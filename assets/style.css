@@ -1,0 +1,12 @@
+.timeline-text-content {
+    padding: 1rem;
+}
+.timeline-text-content p{
+    display: none;
+}
+.mbr-timeline-title {
+    padding-bottom: 0px !important;
+}
+.time-line-date-content p {
+    padding: 1rem 2rem;
+}
